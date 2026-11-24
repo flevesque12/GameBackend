@@ -1,8 +1,0 @@
-<Solution>
-  <Project Path="Leaderboard.Api/Leaderboard.Api.csproj" />
-  <Project Path="Leaderboard.Application/Leaderboard.Application.csproj" />
-  <Project Path="Leaderboard.Contracts/Leaderboard.Contracts.csproj" />
-  <Project Path="Leaderboard.Domain/Leaderboard.Domain.csproj" />
-  <Project Path="Leaderboard.Infrastructure/Leaderboard.Infrastructure.csproj" />
-  <Project Path="Leaderboard.Portal/Leaderboard.Portal.csproj" />
-</Solution>

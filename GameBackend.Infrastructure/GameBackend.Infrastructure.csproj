@@ -1,7 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Leaderboard.Domain\Leaderboard.Domain.csproj" />
+    <ProjectReference Include="..\GameBackend.Application\GameBackend.Application.csproj" />
+    <ProjectReference Include="..\GameBackend.Domain\GameBackend.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

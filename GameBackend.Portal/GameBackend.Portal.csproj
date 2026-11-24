@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <ItemGroup>
-    <ProjectReference Include="..\Leaderboard.Contracts\Leaderboard.Contracts.csproj" />
+    <ProjectReference Include="..\GameBackend.Contracts\GameBackend.Contracts.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

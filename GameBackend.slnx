@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Project Path="GameBackend.Api/GameBackend.Api.csproj" />
+  <Project Path="GameBackend.Application/GameBackend.Application.csproj" />
+  <Project Path="GameBackend.Contracts/GameBackend.Contracts.csproj" />
+  <Project Path="GameBackend.Domain/GameBackend.Domain.csproj" />
+  <Project Path="GameBackend.Infrastructure/GameBackend.Infrastructure.csproj" />
+  <Project Path="GameBackend.Portal/GameBackend.Portal.csproj" />
+</Solution>

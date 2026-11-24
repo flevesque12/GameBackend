@@ -1,4 +1,4 @@
-using Leaderboard.Portal.Components;
+﻿using GameBackend.Portal.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
